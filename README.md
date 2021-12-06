@@ -10,6 +10,7 @@
 - Deep Perceptual Preprocessing for Video Coding (CVPR2021) [pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Chadha_Deep_Perceptual_Preprocessing_for_Video_Coding_CVPR_2021_paper.pdf)
 - Deep Contextual Video Compression (NeurIPS2021) [pdf](https://openreview.net/pdf?id=evqzNxmXsl3)
 - Versatile Learned Video Compression (Submitted to NeurIPS2021) [pdf](https://openreview.net/pdf?id=pLk9yRbRRtF)
+- Towards Generative Video Compression (Submitted to NeurIPS2021) [pdf](https://arxiv.org/abs/2107.12038)
 - Hierarchical Autoregressive Modeling for Neural Video Compression (ICLR2021) [pdf](https://openreview.net/pdf?id=TK_6nNb_C7q)
 - Modulated Variable-Rate Deep Video Compression (DCC2021) [pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9418700)
 - Learning for video Compression with Hierarchical Quality and Recurrent Enhancement (CVPR2020) [pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Learning_for_Video_Compression_With_Hierarchical_Quality_and_Recurrent_Enhancement_CVPR_2020_paper.pdf)
