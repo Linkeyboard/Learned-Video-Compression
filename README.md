@@ -30,7 +30,6 @@
 - Deep Video Compression for Interframe Coding (ICIP2021) [pdf](https://ieeexplore.ieee.org/abstract/document/9506275)
 - Learned Video Compression with Residual Prediction and Loop Filter [pdf](https://arxiv.org/abs/2108.08551)
 - End-to-end Neural Video Coding Using a Compound Spatiotemporal Representation [pdf](https://arxiv.org/abs/2108.04103)
-- Efficient Video Compression via Content-Adaptive Super-Resolution [pdf](https://arxiv.org/abs/2104.02322)
 - MOVI-Codec: Deep Video Compression without Motion (PCS2021) [pdf](https://ieeexplore.ieee.org/abstract/document/9477463/)
 - Learning for video Compression with Hierarchical Quality and Recurrent Enhancement (CVPR2020) [pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Learning_for_Video_Compression_With_Hierarchical_Quality_and_Recurrent_Enhancement_CVPR_2020_paper.pdf)
 - Scale-Space Flow for End-to-End Optimized Video Compression (CVPR2020) [pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Agustsson_Scale-Space_Flow_for_End-to-End_Optimized_Video_Compression_CVPR_2020_paper.pdf)
