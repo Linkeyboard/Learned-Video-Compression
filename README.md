@@ -6,6 +6,7 @@
 - Efficient Video Compression via Content-Adaptive Super-Resolution (ICCV2021) [pdf](https://openaccess.thecvf.com/content/ICCV2021/papers/Khani_Efficient_Video_Compression_via_Content-Adaptive_Super-Resolution_ICCV_2021_paper.pdf)
 - Extending Neural P-Frame Codecs for B-Frame Coding (ICCV2021) [pdf](https://openaccess.thecvf.com/content/ICCV2021/papers/Pourreza_Extending_Neural_P-Frame_Codecs_for_B-Frame_Coding_ICCV_2021_paper.pdf)
 - Self-Conditioned Probabilistic Learning of Video Rescaling (ICCV2021) [pdf](https://openaccess.thecvf.com/content/ICCV2021/papers/Tian_Self-Conditioned_Probabilistic_Learning_of_Video_Rescaling_ICCV_2021_paper.pdf)
+- DVC-P: Deep Video Compression with Perceptual Optimizations [pdf](https://arxiv.org/abs/2109.10849)
 - FVC: A New Framework Towards Deep Video Compression in Feature Space (CVPR2021) [pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Hu_FVC_A_New_Framework_Towards_Deep_Video_Compression_in_Feature_CVPR_2021_paper.pdf)
 - Deep Learning in Latent Space for Video Prediction and Compression (CVPR2021) [pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Deep_Learning_in_Latent_Space_for_Video_Prediction_and_Compression_CVPR_2021_paper.pdf)
 - Deep Perceptual Preprocessing for Video Coding (CVPR2021) [pdf](https://openaccess.thecvf.com/content/CVPR2021/papers/Chadha_Deep_Perceptual_Preprocessing_for_Video_Coding_CVPR_2021_paper.pdf)
