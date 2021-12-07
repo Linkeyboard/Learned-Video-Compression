@@ -1,5 +1,6 @@
 ## Learned Video Compression
 
+- Deep Video Coding with Dual-Path Generative Adversarial Network [pdf](https://arxiv.org/abs/2111.14474)
 - Instance-Adaptive Video Compression: Improving Neural Codecs by Training on the Test Set (Submitted to ICLR2022) [pdf](https://openreview.net/pdf?id=TvMrYbWpa7)
 - Temporal Context Mining for Learned Video Compression [pdf](https://arxiv.org/abs/2111.13850)
 - Neural Video Coding Using Multiscale Motion Compensation and Spatiotemporal Context Model (TCSVT2021) [pdf](https://ieeexplore.ieee.org/abstract/document/9247134)
