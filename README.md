@@ -10,7 +10,7 @@
 - Extending Neural P-Frame Codecs for B-Frame Coding (ICCV2021) [pdf](https://openaccess.thecvf.com/content/ICCV2021/papers/Pourreza_Extending_Neural_P-Frame_Codecs_for_B-Frame_Coding_ICCV_2021_paper.pdf)
 - Self-Conditioned Probabilistic Learning of Video Rescaling (ICCV2021) [pdf](https://openaccess.thecvf.com/content/ICCV2021/papers/Tian_Self-Conditioned_Probabilistic_Learning_of_Video_Rescaling_ICCV_2021_paper.pdf)
 - DVC-P: Deep Video Compression with Perceptual Optimizations [pdf](https://arxiv.org/abs/2109.10849)
-- - Insights from Generative Modeling for Neural Video Compression [pdf](https://arxiv.org/pdf/2107.13136.pdf)
+- Insights from Generative Modeling for Neural Video Compression [pdf](https://arxiv.org/pdf/2107.13136.pdf)
 - Conditional Coding for Flexible Learned Video Compression (ICLRW2021) [pdf](https://openreview.net/pdf?id=uyMvuXoV1lZ)
 - Scale Space Flow With Autoregressive Priors (ICLRW2021) [pdf](https://openreview.net/pdf?id=JhxlEWaFmK)
 - Conditional Coding and Variable Bitrate for Practical Learned Video Coding (CVPRW2021) [pdf](https://arxiv.org/abs/2104.09103)
