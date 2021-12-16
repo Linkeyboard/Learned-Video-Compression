@@ -30,7 +30,6 @@
 - Generative Video Compression as Hierarchical Variational Inference (AABI2021) [pdf](https://openreview.net/pdf?id=gFr4HCfLE58)
 - Deep Video Compression for Interframe Coding (ICIP2021) [pdf](https://ieeexplore.ieee.org/abstract/document/9506275)
 - Learned Video Compression with Residual Prediction and Loop Filter [pdf](https://arxiv.org/abs/2108.08551)
-- Deep Predictive Video Compression using Mode-Selective Uni and Bi-Directional Predictions based on Multi-Frame Hypothesis (Access2021) [pdf] (https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9300040)
 - End-to-end Neural Video Coding Using a Compound Spatiotemporal Representation [pdf](https://arxiv.org/abs/2108.04103)
 - MOVI-Codec: Deep Video Compression without Motion (PCS2021) [pdf](https://ieeexplore.ieee.org/abstract/document/9477463/)
 - Learning for video Compression with Hierarchical Quality and Recurrent Enhancement (CVPR2020) [pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Learning_for_Video_Compression_With_Hierarchical_Quality_and_Recurrent_Enhancement_CVPR_2020_paper.pdf)
