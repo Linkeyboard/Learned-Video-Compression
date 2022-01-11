@@ -1,5 +1,6 @@
 ## Learned Video Compression
 
+- End-to-End Rate-Distortion Optimized Learned Hierarchical Bi-Directional Video Compression (TIP2021) [pdf](https://arxiv.org/pdf/2112.09529.pdf)
 - Deep Video Coding with Dual-Path Generative Adversarial Network [pdf](https://arxiv.org/abs/2111.14474)
 - Perceptual Learned Video Compression with Recurrent Conditional GAN [pdf](https://arxiv.org/pdf/2109.03082.pdf)
 - Instance-Adaptive Video Compression: Improving Neural Codecs by Training on the Test Set (Submitted to ICLR2022) [pdf](https://openreview.net/pdf?id=TvMrYbWpa7)
