@@ -1,5 +1,6 @@
 ## Learned Video Compression
 
+- Structure-Preserving Motion Estimation for Learned Video Compression (MM2022) [pdf](https://dl.acm.org/doi/pdf/10.1145/3503161.3548156)
 - AlphaVC: High-Performance and Efficient Learned Video Compression (ECCV2022) [pdf](https://arxiv.org/pdf/2207.14678.pdf)
 - Coarse-to-fine Deep Video Coding with Hyperprior-guided Mode Prediction (CVPR2022) [pdf](https://openaccess.thecvf.com/content/CVPR2022/papers/Hu_Coarse-To-Fine_Deep_Video_Coding_With_Hyperprior-Guided_Mode_Prediction_CVPR_2022_paper.pdf)
 - FVC: An End-to-End Framework towards Deep Video Compression in Feature Space (TPAMI2022)[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9905949)
